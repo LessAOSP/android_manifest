@@ -161,6 +161,7 @@
   <project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="lessaosp" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lessaosp" />
   <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lessaosp" />
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="lessaosp" />
 
   <!-- QCOM Sepolicies -->
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy-legacy-um" remote="lessaosp" />
